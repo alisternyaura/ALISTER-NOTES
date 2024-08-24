@@ -1,0 +1,10 @@
+WHAT IS GIT?
+Git was created by Linus Torvalds in 2005, and has been maintained by Junio Hamano since then.
+Git is the free and open-source distributed version control systems that’s responsible for everything GitHub related that happens locally on your computer.
+Veersion Control system or Source Control is the technique of tracking and managing changes to codes and these are the systems that are software tools that enable software teams to manage modifications to source code as time passes.
+It is a system that maintains different versions of your project when we work in a team or as an individual (system managing changes to files). It is used for Tracking code changes, Tracking who made changes and Coding collaboration.
+Types of version control systems include:
+Local Version Control Systems- It is one of the simplest forms and has a database that kept all the changes to files under revision control.
+Centralized Version Control Systems - Centralized version control systems contain just one repository globally and every user need to commit for reflecting one’s changes in the repository. It is possible for others to see your changes by updating. 
+Two things are required to make your changes visible to others which are:  You commit and They update
+Distributed Version Control Systems - 
